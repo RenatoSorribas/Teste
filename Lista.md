@@ -4,11 +4,3 @@
 *Mario
 
 *Sonic
-
-*Pokemon
-
-*Poker
-
-*Overwatch
-
-*Gta V
