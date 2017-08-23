@@ -3,7 +3,3 @@
 *Mario
 
 *Sonic
-
-*Pokemon
-
-*Poker
