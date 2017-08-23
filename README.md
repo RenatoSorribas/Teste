@@ -1,5 +1,5 @@
 # Lista de Jogos:
 
-*[jogo favorito 1]
+*Mario
 
-*[jogo favorito 2]
+*Sonic
