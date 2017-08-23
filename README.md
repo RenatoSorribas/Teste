@@ -1,5 +1,4 @@
 # Lista de Jogos:
-jogador01
 
 *Mario
 
