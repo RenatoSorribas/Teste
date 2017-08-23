@@ -1,9 +1,6 @@
 # Lista de Jogos:
 
-*Pokemon
 
-*Poker
+*Mario
 
-*Overwatch
-
-*Gta V
+*Sonic
