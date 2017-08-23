@@ -5,10 +5,6 @@ jogador01
 
 *Sonic
 
-=======
-master
+*Pokemon
 
-*[jogo favorito 1]
-
-*[jogo favorito 2]
-
+*Poker
